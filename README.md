@@ -1,4 +1,4 @@
-# Kubernetes
+
 # Essential Network Ports for DevOps
 
 As an aspiring DevOps engineer, understanding network ports is crucial for successful system communication and application deployment. This document provides an overview of important ports, categorized by their usage.
