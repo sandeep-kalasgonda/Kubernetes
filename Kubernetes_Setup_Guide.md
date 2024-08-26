@@ -3,6 +3,9 @@
 ## Prerequisites
 - **Multipass**: Ensure you have Multipass installed on your macOS. Follow the [Multipass installation guide](https://multipass.run/docs/installing-on-macos) if needed.
 - **Access to a terminal**: You will run commands in the terminal.
+- **clone this repo first
+- git clone https://github.com/kodekloudhub/certified-kubernetes-administrator-course.git
+
 
 ---
 
